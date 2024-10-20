@@ -10,7 +10,7 @@
 
 /* Vídeo de Fundo */
 .bg-video {
-  position: fixed; /* Mantém o vídeo fixo no fundo */
+  position: fixed;
   z-index: -2;
   width: 100%;
   height: 100%;
@@ -22,7 +22,7 @@
 .bg-video .video {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Garante que o vídeo cubra todo o contêiner sem distorção */
+  object-fit: cover; 
 }
 
 .bg-video::after {
@@ -48,7 +48,7 @@
   flex-direction: row;
   height: 100vh;
   width: 100%;
-  overflow: hidden; /* Evitar scroll no container principal */
+  overflow: hidden;
 }
 
 /* Container Esquerdo */
@@ -89,6 +89,15 @@
   border-radius: 5px;
 }
 
+.card {
+  max-width: 125px;
+  max-height: 130px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 /* Detalhes da Carta */
 .card_details {
   background-color: var(--secondary-color);
@@ -113,12 +122,12 @@
 
 /* Container das Cartas */
 .card_box-container {
-  flex: 1; /* Permite que o container cresça */
+  flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   padding: 0.3rem;
-  overflow: hidden; /* Evitar scroll externo */
+  overflow: hidden;
   width: 100%;
 }
 
@@ -149,7 +158,7 @@
 
 /* Botão Next Duel */
 #next-duel {
-  display: none; /* Inicialmente escondido */
+  display: none;
 }
 
 /* Box das Cartas */
