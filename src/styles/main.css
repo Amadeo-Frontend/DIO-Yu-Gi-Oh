@@ -8,6 +8,18 @@
   --font-size-large: 1.2rem;
 }
 
+body{
+  cursor: url("../assets/cursor/yugicursor.png"), default;
+}
+
+button,
+a,
+img:hover,
+button:hover,
+a:hover{
+  cursor: url("../assets/cursor/yamiyugicursorGLOW.png"), auto;
+}
+
 /* Vídeo de Fundo */
 .bg-video {
   position: fixed;
@@ -180,6 +192,7 @@
 .card-infield {
   height: 11rem;
   width: 8rem;
+  border: 1px solid var(--secondary-color);
   border-radius: 5px;
   display: flex;
   align-items: center;
