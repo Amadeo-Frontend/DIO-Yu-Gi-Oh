@@ -1,4 +1,4 @@
-# Yu-Gi-Oh Jo-Ken-Po Edition 🎮✨
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" /> Yu-Gi-Oh Jo-Ken-Po Edition 🎮✨
 
 Bem-vindo ao **Yu-Gi-Oh Jo-Ken-Po Edition**! Este jogo interativo combina a famosa mecânica de Jo-Ken-Po (Pedra, Papel e Tesoura) com personagens e cartas icônicas do universo de Yu-Gi-Oh. Prepare-se para testar suas habilidades estratégicas e desafiar o computador em emocionantes duelos!
 
